@@ -48,4 +48,24 @@ if __name__ == "__main__":
     main()
 ~~~
 # Tujuan Progam Data Mahasiswa
-Program ini adalah aplikasi berbasis terminal yang digunakan untuk mengelola data mahasiswa. Pengguna dapat menambah, melihat, mencari, mengubah, atau menghapus data mahasiswa melalui menu yang tersedia
+Program ini adalah aplikasi berbasis terminal yang digunakan untuk mengelola data mahasiswa. Pengguna dapat menambah, melihat, mencari, mengubah, atau menghapus data mahasiswa melalui menu yang tersedia.
+
+# Struktur Progam
+1. DataMahasiswa
+2. Inputform
+3. viewmahasiswa
+4. Fungsimain()
+
+# Cara Kerja Progam
+1. Inisialisasi
+2. Menu
+3. pilihan Menu
+
+# Penjelasan Tiap Fitur
+1. Tambah Mahasiswa
+2. Tampilan Semua Mahasiswa
+3. Cari Mahasiswa
+4. Ubah Mahasiswa
+5. Hapus Mahasiswa
+6. Keluar
+   
