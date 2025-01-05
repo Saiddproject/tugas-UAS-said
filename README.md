@@ -1,5 +1,5 @@
 # tugas-UAS-said
-~~~
+
 from data.mahasiswa import DataMahasiswa
 from view.input_form import InputForm
 from view.mahasiswa import ViewMahasiswa
