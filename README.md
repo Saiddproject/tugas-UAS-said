@@ -1,5 +1,5 @@
 # tugas-UAS-said
-
+~~~
 from data.mahasiswa import DataMahasiswa
 from view.input_form import InputForm
 from view.mahasiswa import ViewMahasiswa
@@ -43,6 +43,11 @@ def main():
             break
         else:
             print("Pilihan tidak valid!")
+~~~
+Penjelasan nya 
+Tujuan Program
+Program ini adalah aplikasi berbasis terminal yang digunakan untuk mengelola data mahasiswa. Pengguna dapat menambah, melihat, mencari, mengubah, atau menghapus data mahasiswa melalui menu yang tersedia
+
             
    if __name__ == "__main__":
     main()
