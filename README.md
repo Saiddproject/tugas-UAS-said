@@ -43,11 +43,9 @@ def main():
             break
         else:
             print("Pilihan tidak valid!")
-~~~
-Penjelasan nya 
-Tujuan Program
-Program ini adalah aplikasi berbasis terminal yang digunakan untuk mengelola data mahasiswa. Pengguna dapat menambah, melihat, mencari, mengubah, atau menghapus data mahasiswa melalui menu yang tersedia
 
-            
-   if __name__ == "__main__":
+if __name__ == "__main__":
     main()
+~~~
+# Tujuan Progam Data Mahasiswa
+Program ini adalah aplikasi berbasis terminal yang digunakan untuk mengelola data mahasiswa. Pengguna dapat menambah, melihat, mencari, mengubah, atau menghapus data mahasiswa melalui menu yang tersedia
